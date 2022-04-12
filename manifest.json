@@ -1,8 +1,8 @@
 {
-  "name": "Jebah",
+  "name": "Reset Answers",
 
-  "description": "Build an Extension!",
-  "version": "1.0",
+  "description": "Resets checkboxes , radio button ,Input Text !",
+  "version": "0.0.0.1",
   "manifest_version": 3,
   "background": {
     "service_worker": "background.js"
